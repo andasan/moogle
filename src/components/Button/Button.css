@@ -1,0 +1,28 @@
+button {
+    background-color: #FF389C;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+button:focus{
+    outline: 2px solid pink;
+}
+
+.outline {
+    background-color: white;
+    color: #FF389C;
+    border: 2px solid #FF389C
+}
+
+.small{
+    font-size: 10px;
+    padding: 6px;
+}
+
+.large{
+    font-size: 20px;
+    padding: 10px;
+}

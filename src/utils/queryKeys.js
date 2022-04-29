@@ -1,0 +1,1 @@
+export const fetchWikiKey = "FETCH_ARTICLES"
